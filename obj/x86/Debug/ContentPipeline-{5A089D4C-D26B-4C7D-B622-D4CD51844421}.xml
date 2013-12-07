@@ -1,0 +1,1321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>AntonPhibes1.FBX</Source>
+      <Name>AntonPhibes1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+        <Data Key="Section">1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\AntonPhibes1.xnb</Output>
+      <Time>2008-10-16T19:36:25.767-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes1_0.xml</Key>
+        <Value>2013-12-05T13:13:16.8819591-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Panel2_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect2.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect1.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Reactor_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\RackPanels_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Floor_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\BulkheadFrame_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Bulkhead_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Walls_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Phibes_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AntonPhibes2.FBX</Source>
+      <Name>AntonPhibes2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Section">2</Data>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\AntonPhibes2.xnb</Output>
+      <Time>2008-10-16T19:36:41.023-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes2_0.xml</Key>
+        <Value>2013-12-05T13:13:22.8780582-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Walls_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect2.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect1.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\BulkheadFrame_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Floor_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Panel_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Bulkhead_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AntonPhibes3.FBX</Source>
+      <Name>AntonPhibes3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+        <Data Key="Section">3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\AntonPhibes3.xnb</Output>
+      <Time>2008-10-16T19:36:57.66-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes3_0.xml</Key>
+        <Value>2013-12-05T13:13:23.7550704-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Walls_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect2.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\BulkheadFrame_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect1.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Panel_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Floor_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Bulkhead_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AntonPhibes4.FBX</Source>
+      <Name>AntonPhibes4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+        <Data Key="Section">4</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\AntonPhibes4.xnb</Output>
+      <Time>2008-10-16T19:37:12.581-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes4_0.xml</Key>
+        <Value>2013-12-05T13:13:24.0590856-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Walls_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect2.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect1.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Panel_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Floor_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\BulkheadFrame_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Bulkhead_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AntonPhibes5.FBX</Source>
+      <Name>AntonPhibes5</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+        <Data Key="Section">5</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\AntonPhibes5.xnb</Output>
+      <Time>2008-10-16T19:37:25.118-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes5_0.xml</Key>
+        <Value>2013-12-05T13:13:24.1930871-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Floor_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect2.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\BulkheadFrame_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Bulkhead_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Panel2_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Walls_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AntonPhibes6.FBX</Source>
+      <Name>AntonPhibes6</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+        <Data Key="Section">6</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\AntonPhibes6.xnb</Output>
+      <Time>2008-10-16T19:37:42.798-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes6_0.xml</Key>
+        <Value>2013-12-05T13:13:24.3330873-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Bulkhead_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect2.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Walls_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Panel2_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Floor_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\BulkheadFrame_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>AntonPhibesCollision.FBX</Source>
+      <Name>AntonPhibesCollision</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\AntonPhibesCollision.xnb</Output>
+      <Time>2008-10-29T21:04:10.547-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibesCollision_0.xml</Key>
+        <Value>2013-12-05T13:13:24.4330874-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Victoria.FBX</Source>
+      <Name>Victoria</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria.xnb</Output>
+      <Time>2013-11-11T13:20:04.9214668-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria_0.xml</Key>
+        <Value>2013-12-05T13:13:24.7930879-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\SkinnedEffect.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-dance.FBX</Source>
+      <Name>Victoria-dance</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-dance.xnb</Output>
+      <Time>2013-11-11T23:35:40.6573508-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-dance_0.xml</Key>
+        <Value>2013-12-05T13:13:29.4441101-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-leftturn.FBX</Source>
+      <Name>Victoria-leftturn</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateTangentFrames">True</Data>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-leftturn.xnb</Output>
+      <Time>2013-11-12T17:34:47.087264-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-leftturn_0.xml</Key>
+        <Value>2013-12-05T13:13:30.6541118-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-rightturn.FBX</Source>
+      <Name>Victoria-rightturn</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-rightturn.xnb</Output>
+      <Time>2013-11-12T17:34:47.1028641-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-rightturn_0.xml</Key>
+        <Value>2013-12-05T13:13:31.9521213-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_3.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-stance.FBX</Source>
+      <Name>Victoria-stance</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-stance.xnb</Output>
+      <Time>2013-11-12T17:34:47.1028641-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-stance_0.xml</Key>
+        <Value>2013-12-05T13:13:32.67013-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_4.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-walk.FBX</Source>
+      <Name>Victoria-walk</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-walk.xnb</Output>
+      <Time>2013-11-12T17:34:47.1184641-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-walk_0.xml</Key>
+        <Value>2013-12-05T13:13:34.8471491-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_5.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-walkloop.FBX</Source>
+      <Name>Victoria-walkloop</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-walkloop.xnb</Output>
+      <Time>2013-11-12T17:34:47.1340641-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-walkloop_0.xml</Key>
+        <Value>2013-12-05T13:13:35.9871507-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_6.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-walkstart.FBX</Source>
+      <Name>Victoria-walkstart</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-walkstart.xnb</Output>
+      <Time>2013-11-12T17:34:47.1340641-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-walkstart_0.xml</Key>
+        <Value>2013-12-05T13:13:37.1471523-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_7.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-crouchbazooka.FBX</Source>
+      <Name>Victoria-crouchbazooka</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-crouchbazooka.xnb</Output>
+      <Time>2013-11-19T21:09:58.0435489-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-crouchbazooka_0.xml</Key>
+        <Value>2013-12-05T13:13:38.7571546-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_8.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-lowerbazooka.FBX</Source>
+      <Name>Victoria-lowerbazooka</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-lowerbazooka.xnb</Output>
+      <Time>2013-11-19T21:09:58.0485492-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-lowerbazooka_0.xml</Key>
+        <Value>2013-12-05T13:13:39.9791653-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_9.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-raisebazooka.FBX</Source>
+      <Name>Victoria-raisebazooka</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-raisebazooka.xnb</Output>
+      <Time>2013-11-19T21:09:58.0525494-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-raisebazooka_0.xml</Key>
+        <Value>2013-12-05T13:13:41.1641896-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_10.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-walkloopbazooka.FBX</Source>
+      <Name>Victoria-walkloopbazooka</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-walkloopbazooka.xnb</Output>
+      <Time>2013-11-19T21:09:58.0575497-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-walkloopbazooka_0.xml</Key>
+        <Value>2013-12-05T13:13:42.2852057-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_11.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-walkstartbazooka.FBX</Source>
+      <Name>Victoria-walkstartbazooka</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Victoria-walkstartbazooka.xnb</Output>
+      <Time>2013-11-19T21:09:58.0615499-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-walkstartbazooka_0.xml</Key>
+        <Value>2013-12-05T13:13:43.5082238-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_12.xnb</Request>
+    </Item>
+    <Item>
+      <Source>PieBazooka.FBX</Source>
+      <Name>PieBazooka</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+        <Data Key="Section">5</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PieBazooka.xnb</Output>
+      <Time>2013-11-20T17:38:19.9397684-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\PieBazooka_0.xml</Key>
+        <Value>2013-12-05T13:13:44.0842389-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect1.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\desert_camo_512_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>pies.FBX</Source>
+      <Name>pies</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+        <Data Key="Section">1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\pies.xnb</Output>
+      <Time>2013-11-21T19:20:30.2322239-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\pies_0.xml</Key>
+        <Value>2013-12-05T13:13:44.30824-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect1.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\cream-pie_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect2.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\pumpkin-pie_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Dalek.FBX</Source>
+      <Name>Dalek</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Section">5</Data>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Dalek.xnb</Output>
+      <Time>2013-11-23T23:51:51.2838927-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Dalek_0.xml</Key>
+        <Value>2013-12-05T13:13:45.1242559-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Alien-catcheat.FBX</Source>
+      <Name>Alien-catcheat</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Alien-catcheat.xnb</Output>
+      <Time>2013-11-25T01:16:19.242708-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-catcheat_0.xml</Key>
+        <Value>2013-12-05T13:13:46.2282733-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Alien-ob.FBX</Source>
+      <Name>Alien-ob</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Alien-ob.xnb</Output>
+      <Time>2013-11-25T01:16:19.2467082-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-ob_0.xml</Key>
+        <Value>2013-12-05T13:13:47.6172914-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Alien-stance.FBX</Source>
+      <Name>Alien-stance</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Alien-stance.xnb</Output>
+      <Time>2013-11-25T01:16:19.2497084-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-stance_0.xml</Key>
+        <Value>2013-12-05T13:13:47.7872917-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Alien-trantrum.FBX</Source>
+      <Name>Alien-trantrum</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Alien-trantrum.xnb</Output>
+      <Time>2013-11-25T01:16:19.2537086-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-trantrum_0.xml</Key>
+        <Value>2013-12-05T13:13:48.737293-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Alien-walkloop.FBX</Source>
+      <Name>Alien-walkloop</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Alien-walkloop.xnb</Output>
+      <Time>2013-11-25T01:16:19.2567088-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-walkloop_0.xml</Key>
+        <Value>2013-12-05T13:13:49.0472934-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Alien-walkstart.FBX</Source>
+      <Name>Alien-walkstart</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Alien-walkstart.xnb</Output>
+      <Time>2013-11-25T01:16:19.2597089-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-walkstart_0.xml</Key>
+        <Value>2013-12-05T13:13:49.4072939-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Alien.FBX</Source>
+      <Name>Alien</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Skinned">True</Data>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+        <Data Key="Section">2</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Alien.xnb</Output>
+      <Time>2013-11-25T01:16:19.2637092-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien_0.xml</Key>
+        <Value>2013-12-05T13:13:50.4423107-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\alien-texture_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\SkinnedEffect.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Spit.FBX</Source>
+      <Name>Spit</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Parameters>
+        <Data Key="Section">1</Data>
+        <Data Key="CustomMaterialProcessor">PhibesMaterialProcessor</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Spit.xnb</Output>
+      <Time>2013-11-27T02:05:10.7849336-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Spit_0.xml</Key>
+        <Value>2013-12-05T13:13:50.9233148-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Spit-blur_0.xnb</Request>
+      <Request>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>PhibesEffect1.fx</Source>
+      <Name>PhibesEffect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect1.xnb</Output>
+      <Time>2013-12-01T16:58:42.520236-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PhibesEffect2.fx</Source>
+      <Name>PhibesEffect2</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\PhibesEffect2.xnb</Output>
+      <Time>2013-12-01T16:58:51.7899718-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LineDraw.fx</Source>
+      <Name>LineDraw</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\LineDraw.xnb</Output>
+      <Time>2013-11-11T13:24:55.6117646-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SkinnedEffect.fx</Source>
+      <Name>SkinnedEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\SkinnedEffect.xnb</Output>
+      <Time>2013-12-01T16:58:56.9246614-05:00</Time>
+    </Item>
+    <Item>
+      <Source>scorefont.spritefont</Source>
+      <Name>scorefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\scorefont.xnb</Output>
+      <Time>2013-12-02T16:26:36.9998551-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonPhibes1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes1_0.xml</Output>
+      <Time>2008-10-16T19:36:25.767-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Panel2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Panel2_0.xnb</Output>
+      <Time>2008-10-12T15:49:43.217-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Reactor.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Reactor_0.xnb</Output>
+      <Time>2008-10-14T11:02:19.653-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RackPanels.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\RackPanels_0.xnb</Output>
+      <Time>2008-10-14T11:31:54.586-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Floor.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Floor_0.xnb</Output>
+      <Time>2008-10-12T13:50:06.44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BulkheadFrame.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\BulkheadFrame_0.xnb</Output>
+      <Time>2008-10-12T13:42:52.64-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bulkhead.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Bulkhead_0.xnb</Output>
+      <Time>2008-10-12T13:30:53.148-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Walls.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Walls_0.xnb</Output>
+      <Time>2008-10-12T16:45:40.471-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Phibes.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Phibes_0.xnb</Output>
+      <Time>2008-10-15T09:49:46.541-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonPhibes2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes2_0.xml</Output>
+      <Time>2008-10-16T19:36:41.023-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Panel.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Panel_0.xnb</Output>
+      <Time>2008-10-12T14:14:34.7-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonPhibes3.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes3_0.xml</Output>
+      <Time>2008-10-16T19:36:57.66-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonPhibes4.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes4_0.xml</Output>
+      <Time>2008-10-16T19:37:12.581-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonPhibes5.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes5_0.xml</Output>
+      <Time>2008-10-16T19:37:25.118-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonPhibes6.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibes6_0.xml</Output>
+      <Time>2008-10-16T19:37:42.798-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AntonPhibesCollision.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\AntonPhibesCollision_0.xml</Output>
+      <Time>2008-10-29T21:04:10.547-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria_0.xml</Output>
+      <Time>2013-11-11T13:20:04.9214668-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\17052627\Victoria.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_0.xnb</Output>
+      <Time>2013-12-05T13:13:24.5930876-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-dance.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-dance_0.xml</Output>
+      <Time>2013-11-11T23:35:40.6573508-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\305284F\Victoria-dance.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_1.xnb</Output>
+      <Time>2013-12-05T13:13:25.4530889-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-leftturn.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-leftturn_0.xml</Output>
+      <Time>2013-11-12T17:34:47.087264-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\80FA29C8\Victoria-leftturn.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_2.xnb</Output>
+      <Time>2013-12-05T13:13:30.094111-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-rightturn.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-rightturn_0.xml</Output>
+      <Time>2013-11-12T17:34:47.1028641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\ABB02A3B\Victoria-rightturn.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_3.xnb</Output>
+      <Time>2013-12-05T13:13:31.3541128-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-stance.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-stance_0.xml</Output>
+      <Time>2013-11-12T17:34:47.1028641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\2CF928D2\Victoria-stance.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_4.xnb</Output>
+      <Time>2013-12-05T13:13:32.5301298-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-walk.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-walk_0.xml</Output>
+      <Time>2013-11-12T17:34:47.1184641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\DB352803\Victoria-walk.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_5.xnb</Output>
+      <Time>2013-12-05T13:13:33.327147-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-walkloop.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-walkloop_0.xml</Output>
+      <Time>2013-11-12T17:34:47.1340641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\80CB29BD\Victoria-walkloop.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_6.xnb</Output>
+      <Time>2013-12-05T13:13:35.46715-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-walkstart.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-walkstart_0.xml</Output>
+      <Time>2013-11-12T17:34:47.1340641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\AB6F2A31\Victoria-walkstart.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_7.xnb</Output>
+      <Time>2013-12-05T13:13:36.5771515-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-crouchbazooka.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-crouchbazooka_0.xml</Output>
+      <Time>2013-11-19T21:09:58.0435489-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\581E2BBF\Victoria-crouchbazooka.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_8.xnb</Output>
+      <Time>2013-12-05T13:13:37.7371531-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-lowerbazooka.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-lowerbazooka_0.xml</Output>
+      <Time>2013-11-19T21:09:58.0485492-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\2CF32B64\Victoria-lowerbazooka.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_9.xnb</Output>
+      <Time>2013-12-05T13:13:39.3971555-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-raisebazooka.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-raisebazooka_0.xml</Output>
+      <Time>2013-11-19T21:09:58.0525494-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\2BD72B4F\Victoria-raisebazooka.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_10.xnb</Output>
+      <Time>2013-12-05T13:13:40.5941726-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-walkloopbazooka.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-walkloopbazooka_0.xml</Output>
+      <Time>2013-11-19T21:09:58.0575497-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\B2352CA4\Victoria-walkloopbazooka.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_11.xnb</Output>
+      <Time>2013-12-05T13:13:41.8141905-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-walkstartbazooka.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Victoria-walkstartbazooka_0.xml</Output>
+      <Time>2013-11-19T21:09:58.0615499-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\E0052D18\Victoria-walkstartbazooka.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\victoria_12.xnb</Output>
+      <Time>2013-12-05T13:13:42.9522137-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PieBazooka.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\PieBazooka_0.xml</Output>
+      <Time>2013-11-20T17:38:19.9397684-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\642A26EB\PieBazooka.fbm\desert_camo_512.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\desert_camo_512_0.xnb</Output>
+      <Time>2013-12-05T13:13:44.017235-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pies.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\pies_0.xml</Output>
+      <Time>2013-11-21T19:20:30.2322239-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\7FA42477\pies.fbm\cream-pie.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\cream-pie_0.xnb</Output>
+      <Time>2013-12-05T13:13:44.2782399-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\7FA42477\pies.fbm\pumpkin-pie.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\pumpkin-pie_0.xnb</Output>
+      <Time>2013-12-05T13:13:44.2782399-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Dalek.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Dalek_0.xml</Output>
+      <Time>2013-11-23T23:51:51.2838927-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien-catcheat.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-catcheat_0.xml</Output>
+      <Time>2013-11-25T01:16:19.242708-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien-ob.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-ob_0.xml</Output>
+      <Time>2013-11-25T01:16:19.2467082-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien-stance.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-stance_0.xml</Output>
+      <Time>2013-11-25T01:16:19.2497084-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien-trantrum.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-trantrum_0.xml</Output>
+      <Time>2013-11-25T01:16:19.2537086-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien-walkloop.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-walkloop_0.xml</Output>
+      <Time>2013-11-25T01:16:19.2567088-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien-walkstart.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien-walkstart_0.xml</Output>
+      <Time>2013-11-25T01:16:19.2597089-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Alien_0.xml</Output>
+      <Time>2013-11-25T01:16:19.2637092-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\A42C24CF\Alien.fbm\alien-texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\alien-texture_0.xnb</Output>
+      <Time>2013-12-05T13:13:49.5672941-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Spit.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\Spit_0.xml</Output>
+      <Time>2013-11-27T02:05:10.7849336-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\FBX\800A2486\Spit.fbm\Spit-blur.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\Spit-blur_0.xnb</Output>
+      <Time>2013-12-05T13:13:50.9133142-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5A089D4C-D26B-4C7D-B622-D4CD51844421}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStepContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Narku\Documents\Visual Studio 2010\Projects\PrisonSteps\PrisonStep\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Narku\Documents\Visual Studio 2010\Projects\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll</Key>
+        <Value>2013-11-30T00:01:26.9554628-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-29T13:30:14.919574-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
